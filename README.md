@@ -1,39 +1,40 @@
 # 👋 Hi, I'm Oleksii Myzgin
 
 🎯 **Senior Frontend Engineer** | React / TypeScript / Product-minded  
-📍 Open to remote and relocation opportunities  
-🛠️ Focused on building clear, scalable, and delightful user experiences  
+📍 Based in Europe | Open to global remote or relocation  
+🧠 Currently exploring full-stack development with Next.js and AI-first product interfaces
 
 ---
 
-## 🧠 About me
+## 👨‍💻 About me
 
-I have been building frontend systems since 2016 — from complex admin dashboards and product interfaces to custom UI components and performance-critical tables.
+I'm a frontend developer with over 8 years of experience, focusing on building clear, scalable, and maintainable user interfaces.  
+I enjoy working closely with product and design teams to bring complex ideas to life — beautifully and efficiently.
 
-I'm passionate about:
-- Elegant UX in complex systems
-- Frontend architecture that scales
-- Thinking in systems, not just screens
-
-Currently exploring AI-first tools and full-stack React (Next.js / Node.js / PostgreSQL).
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| `📦 Coming Soon` | A project that solves X in a delightful way | React, TS, Tailwind, Vite | [Live](#) |
-| `📊 Table Pro` | Performant virtualized table with filters, pagination, and column management | React, Zustand, TanStack Table | [Live](#) |
-| `🧩 UI Kit` | Custom design system with Storybook and accessibility built-in | React, TS, Storybook | [Live](#) |
+What I care about:
+- **Elegant UI/UX** in real-world applications
+- **Performance & Architecture** that scales
+- **Product thinking** and user empathy
 
 ---
 
-## 📬 Contact
+## 🚀 Projects
 
-- [LinkedIn](https://www.linkedin.com/in/oleksiimyzgin/)
+| Project | Description | Stack | Live Demo |
+|--------|-------------|-------|-----------|
+| **Coming Soon** | [Next project in progress: AI-enhanced UI tool] | Next.js, React, TypeScript, Tailwind, OpenAI API | — |
+| [table-data-grid] | Virtualized data grid for large datasets with filtering and styling | React, TypeScript, Zustand, TanStack Table | soon |
+| [react-ui-kit] | Custom design system with Storybook and accessibility support | React, Storybook, Tailwind | soon |
+
+> Full project demos and documentation coming soon — stay tuned ✨
+
+---
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/oleksiimyzgin](https://linkedin.com/in/oleksiimyzgin)
 - Email: `mr.oleksii90@gmail.com`
-- [GitHub](https://github.com/OleksiiMyzgin)
+- GitHub: [github.com/OleksiiMyzgin](https://github.com/OleksiiMyzgin)
 
 ---
 
