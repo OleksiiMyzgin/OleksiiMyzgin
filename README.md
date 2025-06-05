@@ -32,7 +32,7 @@ Currently exploring AI-first tools and full-stack React (Next.js / Node.js / Pos
 ## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/oleksiimyzgin/)
-- Email: `oleksii.myzgin@gmail.com`
+- Email: `mr.oleksii90@gmail.com`
 - [GitHub](https://github.com/OleksiiMyzgin)
 
 ---
