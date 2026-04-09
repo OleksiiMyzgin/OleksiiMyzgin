@@ -1,41 +1,27 @@
-# 👋 Hi, I'm Oleksii Myzgin
+# Oleksii Myzgin — Senior Frontend Engineer
 
-🎯 **Senior Frontend Engineer** | React / TypeScript / Product-minded  
-📍 Based in Europe | Open to global remote or relocation  
-🧠 Currently exploring full-stack development with Next.js and AI-first product interfaces
+React · TypeScript · Micro-frontends · Fintech
 
----
-
-## 👨‍💻 About me
-
-I'm a frontend developer with over 8 years of experience, focusing on building clear, scalable, and maintainable user interfaces.  
-I enjoy working closely with product and design teams to bring complex ideas to life — beautifully and efficiently.
-
-What I care about:
-- **Elegant UI/UX** in real-world applications
-- **Performance & Architecture** that scales
-- **Product thinking** and user empathy
+I build frontend systems, not just components, with a focus on architecture, performance, and product impact.
 
 ---
 
-## 🚀 Projects
+## What I work on
 
-| Project | Description | Stack | Live Demo |
-|--------|-------------|-------|-----------|
-| **Coming Soon** | [Next project in progress: AI-enhanced UI tool] | Next.js, React, TypeScript, Tailwind, OpenAI API | — |
-| [table-data-grid] | Virtualized data grid for large datasets with filtering and styling | React, TypeScript, Zustand, TanStack Table | soon |
-| [react-ui-kit] | Custom design system with Storybook and accessibility support | React, Storybook, Tailwind | soon |
+**At work (NDA)**
+- Micro-frontend platform across 4+ product teams
+- Shared design system — 60+ components
+- Frontend architecture standards and Core Web Vitals optimization
 
-> Full project demos and documentation coming soon — stay tuned ✨
-
----
-
-## 📬 Get in touch
-
-- LinkedIn: [linkedin.com/in/oleksiimyzgin](https://linkedin.com/in/oleksiimyzgin)
-- Email: `mr.oleksii90@gmail.com`
-- GitHub: [github.com/OleksiiMyzgin](https://github.com/OleksiiMyzgin)
+| Project | What it is | Stack |
+|---|---|---|
+| Personal finance app *(in development)* | Multi-currency budgeting and goal tracking | Next.js · TypeScript · Tailwind |
+| [frontend-stuff.com](https://frontend-stuff.com) | Engineering blog — 113 posts · 24k readers | Gatsby · React |
 
 ---
 
-_“Build things so well they invite people in.”_
+## Open to
+
+Senior / Staff Frontend roles · Remote or relocation (US · Canada · Switzerland)
+
+[LinkedIn](https://linkedin.com/in/oleksiimyzgin) · [Blog](https://frontend-stuff.com) · mr.oleksii90@gmail.com
