@@ -22,6 +22,6 @@ I build frontend systems, not just components, with a focus on architecture, per
 
 ## Open to
 
-Senior / Staff Frontend roles · Remote or relocation (US · Canada · Switzerland)
+Senior / Staff Frontend roles · Remote or relocation
 
 [LinkedIn](https://linkedin.com/in/oleksiimyzgin) · [Blog](https://frontend-stuff.com) · mr.oleksii90@gmail.com
